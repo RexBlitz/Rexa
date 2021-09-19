@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SyedTahseen/Nexa.git"
+    "url": "git+https://github.com/rexlogics/rextest.git"
   },
   "keywords": [
     "whatsapp"
@@ -17,7 +17,7 @@
   "developer": "AN Tech",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/SyedTahseen/Nexa/issues"
+    "url": "https://github.com/rexlogics/rextest/issues"
   },
   "homepage": "https://github.com/SyedTahseen/Nexa#readme",
   "dependencies": {
