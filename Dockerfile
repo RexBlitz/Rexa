@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/SyedTahseen/Nexa /root/Nexa
+RUN git clone https://github.com/rexlogics/rextest /root/Nexa
 WORKDIR /root/Nexa/
 ENV TZ=Asia/Kolkata
 RUN npm install supervisor -g
